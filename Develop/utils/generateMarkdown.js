@@ -1146,7 +1146,7 @@ function generateMarkdown(data) {
   \n${renderLicenseSection(data.license)}
   \n## Contributing
   \n###### [Back to Table of Content](#table-of-content)
-  \n${data.contribute}
+  \n${data.contributing}
   \n## Tests
   \n###### [Back to Table of Content](#table-of-Content)
   \n${data.test}  

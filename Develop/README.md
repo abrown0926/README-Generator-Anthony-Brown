@@ -66,7 +66,7 @@ MIT License
   
 ###### [Back to Table of Content](#table-of-content)
   
-undefined
+User guidlines for contributing to the project.
   
 ## Tests
   
