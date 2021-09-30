@@ -66,7 +66,7 @@ MIT License
   
 ###### [Back to Table of Content](#table-of-content)
   
-Allow users to offer input on how or if they would like to contribute to your project.
+undefined
   
 ## Tests
   
@@ -86,4 +86,4 @@ Please contact via GitHub:
   
 Please contatct via email:  
   
-[Email:](mailtoabrown0926@yahoo.com)  
+[Email:](mailto:abrown0926@yahoo.com)  

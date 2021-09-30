@@ -94,17 +94,6 @@ const questions = [
         }
     },{
         type: 'input',
-        name: 'contribute',
-        message: 'Please inform if contributions can be made.',
-        validate: input => {
-            if (input) {
-                return true
-            } else {
-                return false
-            }
-        }
-    },{
-        type: 'input',
         name: 'username',
         message: 'For questions contact (GitHub username).',
         validate: input => {

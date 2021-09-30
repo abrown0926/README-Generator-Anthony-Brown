@@ -1156,7 +1156,7 @@ function generateMarkdown(data) {
   \nPlease contact via GitHub:
   \n[link](https://github.com/${data.username})
   \nPlease contatct via email:  
-  \n[Email:](mailto${data.email})  
+  \n[Email:](mailto:${data.email})  
 `;
 } 
 
